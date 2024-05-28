@@ -119,7 +119,7 @@ Quando acabares, carrega no botão "Commit Changes".
     Resposta:
     ...
 
-  2. Como se utiliza a istruçãp 'if-else' num script Bash? Escreve um exemplo simples.
+  2. Como se utiliza a instrução 'if-else' num script Bash? Escreve um exemplo simples.
 
     Resposta:
     ...
