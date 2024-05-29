@@ -21,7 +21,7 @@ Quando acabares, carrega no botão "Commit Changes".
     C) chmod +r script.sh
     D) chmod -r script.sh
     
-    Resposta: ...
+    Resposta: A
 
   2. Como se define um comentário num script Bash?
 
@@ -30,7 +30,7 @@ Quando acabares, carrega no botão "Commit Changes".
     C) # comentário
     D) -- comentário
     
-    Resposta: ...
+    Resposta: B
    
   3. Que comando é usado para adicionar uma linha de texto ao final de um arquivo em Bash?
 
@@ -39,16 +39,16 @@ Quando acabares, carrega no botão "Commit Changes".
     C) echo "texto" | arquivo
     D) echo "texto" >> arquivo
     
-    Resposta: ...
+    Resposta: D
 
   4. Qual é o comando usado para ler a entrada do utilizador num script Bash?
-
+     
     A) read
     B) input
     C) get
     D) scan
     
-    Resposta: ...
+    Resposta: A
 
   5. Que símbolo é usado para denotar uma variável em Bash?
 
@@ -57,14 +57,14 @@ Quando acabares, carrega no botão "Commit Changes".
     C) &
     D) #
     
-    Resposta: ...
+    Resposta: B
 
 ## P2 - Escreve scripts em Bash para realizar as seguintes instruções: (7.5v)
 
   1. Exibir a mensagem "Olá, Mundo!" no terminal.
 
     Resposta:
-    ...
+    
     
   2. Receber dois números como entrada, e exibir a soma dos dois.
 
