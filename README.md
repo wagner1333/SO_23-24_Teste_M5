@@ -64,17 +64,27 @@ Quando acabares, carrega no botão "Commit Changes".
   1. Exibir a mensagem "Olá, Mundo!" no terminal.
 
     Resposta:
+
+    echo$Ola_mundo
     
     
   2. Receber dois números como entrada, e exibir a soma dos dois.
 
     Resposta:
-    ...
+
+    expr 7 + 2
+    var_7+2=9
+    
 
   3. Ler um valor numérico e imprimir uma mensagem a informar se o mesmo é par ou ímpar.
 
     Resposta:
-    ...
+
+    if 7+2=9
+    then
+        é impar
+    elif 7+2=9 then
+    é par
 
 ## P3 - Indica o que é realizado pelas seguintes instruções: (6v)
 
@@ -83,7 +93,7 @@ Quando acabares, carrega no botão "Commit Changes".
     echo "scale=2;22/7" | bc
 
     Resposta:
-    ...
+    
      
   2. 
     
